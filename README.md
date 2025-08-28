@@ -11,3 +11,18 @@
 
 
 **right now very route is added still need to add more**
+
+
+# routes exchanges involved 
+
+**crystal , ambient , eisen , uniswap , kuru , lot more**
+
+# Benefits
+
+**auto earn mon , no user interaction needed 
+
+
+# requirment 
+
+
+**initial mon**
