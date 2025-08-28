@@ -26,3 +26,7 @@
 
 
 **initial mon**
+
+# work with me 
+
+**give me plans and development if u already made add pulls request and any other help needed add issues**
