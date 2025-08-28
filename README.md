@@ -10,7 +10,7 @@
 # under development 
 
 
-**right now very route is added still need to add more**
+**right now few routes is added still need to add more**
 
 
 # routes exchanges involved 
