@@ -19,7 +19,7 @@
 
 # Benefits
 
-**auto earn mon , no user interaction needed 
+**auto earn mon , no user interaction needed**
 
 
 # requirment 
